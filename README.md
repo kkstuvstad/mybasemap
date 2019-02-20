@@ -9,6 +9,7 @@ For this lab, I designed a basemap using the mapping software MapBox. The style 
 Base Map built by Kristoffer Stuvstad. Based on GEOG 371 Lab 4 constructed by Bo Zhao of Oregon State University. Style based on MapBox tutorial "Create a custom style".
 
 ## Resources:
+* Lab Instructions: https://github.com/jakobzhao/geog371/tree/master/lectures/lec13
 * Mapbox Style Tutorial: https://docs.mapbox.com/help/tutorials/create-a-custom-style/
 * Seahawks Hex Colors: https://teamcolorcodes.com/seattle-seahawks-color-codes/
 * Beavers Hex Colors: https://teamcolorcodes.com/oregon-state-beavers-color-codes/
